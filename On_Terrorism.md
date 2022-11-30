@@ -41,3 +41,13 @@ Thus the right definition is:
 ***Terrorism is the unprovoked use or the threat of using physical violence for advancing a political agenda***.
 
 Ridiculing you and ostracizing you does not count - even if it definitely justifies at least some form of dirty fighting. Only physical violence justifies physical violence.
+
+Here are you a few examples from recent history that show how well it works:
+* No one but the 3rd Reich ever considered the WW2 resistance fighters as terrorists - and no one ever doubted that their lives would have been endangered if they were to freely express their views and try to convert people
+* When Catalunya decided to secede from Spain, the Spanish state definitely overstepped the line by prosecuting the perpetrators
+* In France, there is not a single radical islamist preacher that has been jailed for the only crime of preaching radical Islam - so preaching radical Islam does not directly endanger your life in any way
+  * It should be noted that during the 1960s a pro-Algerian demonstration was dispersed by the French police with extreme brutality resulting in many deaths - so during this era this statement might not have been true
+* I have always been a staunch opponent of anti-hate laws as they definitely do not contribute to changing the way people think and they tend to constitute the only valid argument in an otherwise remarkably unsympathetic political camp - these tend to transform either misguided or naturally repulsive people into political dissidents
+* In some of the most outrageous acts of domestic right-wing terrorism (Breivik in Norway comes to mind), the perpetrators not only were never endangered by the state they were fighting against, they even came from a very privileged social class - they either never tried doing any political activism, or they were simply too bad at it, and they didn't even realize it or understood why it failed to work
+* In one of the most unusual terrorist acts of recent history (the Oklahoma city bombing in the US), the perpetrators claimed that these were in response to the controversial use of force during the Waco siege - which if it was to be completely true, they might have been considered freedom fighters - but in reality, even if that siege, the response and investigation that followed remain highly controversial - there has definitely never been an organized and systematic campaign of armed violence against religious sects in the US
+* Civil war combatants can never be terrorists as their lives are definitely endangered - but they can still be war criminals
