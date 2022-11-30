@@ -38,6 +38,6 @@ Usually, when I have to apply my own moral compass, I have come to use a definit
 
 Thus the right definition is:
 
-***Terrorism is the unnecessary use or the threat of using physical violence for advancing a political agenda***.
+***Terrorism is the unprovoked use or the threat of using physical violence for advancing a political agenda***.
 
 Ridiculing you and ostracizing you does not count - even if it definitely justifies at least some form of dirty fighting. Only physical violence justifies physical violence.
