@@ -1,18 +1,18 @@
-# On Terrorism
+# On Armed Struggle And Terrorism
 
-Many people of my generation - I am born on the very limit between the generation X and the generation Y (the so-called Millennials) - mistakenly consider that the 21st century is the century which saw the birth of the large-scale international terrorism. They consider terrorism to be one of its most defining features.
+Many people of my generation - I am born on the very limit between the generation X and the generation Y (the so-called Millennials) - mistakenly consider that the 21st century is the century which saw the birth of the large-scale international *Terrorism*. They consider terrorism to be one of its most defining features. Most of them do not know anything about *Armed Struggle*. The last time there was any legitimate armed struggle in Europe was the Resistance during the German occupation of WW2. As we are mourning the passing away of the very last people - in order to have had at least 20 years during WW2 you must be 100 years old today -  who have known this era, the current politically-active generation is probably the very first one in history to have never experienced an armed conflict.
 
-Even if terrorism is older than this, there is some truth to this idea - because it is during the 21st century that global terrorism became a global problem.
+Terrorism is quite older than this, there is some truth to this idea - because it is during the 21st century that global terrorism became a global problem.
 
 It even saw the very first attempt to define it, an attempt that drew huge criticism of everyone who was still fighting for something - something that most of the European and American populations have more or less forgotten.
 
 ***Terrorism is the use or the threat of using physical violence for advancing a political agenda***.
 
-Wait? Seriously?
+Wait? Seriously? What is *Armed Struggle* then?
 
-So the current French state was born out of a series of terrorist acts that culminated in mass beheadings?
+So the current French state was born out of a series of terrorist acts that culminated in mass beheadings? What about the Resistance during WW2?
 
-And no, the era during which everything happened cannot be part of this definition. This is why everyone outside the EU and the US reacted to this definition.
+And no, the era during which everything happened cannot be part of this definition. This is why everyone outside the EU and the US is furious about this definition - as mostly everywhere else, the notion of an armed conflict is something very real and very familiar.
 
 When Gorbachev passed away a few months ago, I said that the 20th century is the time period that passed between Gavrilo Princip and Mikhail Gorbachev. What started with Gavrilo Princip didn't really end until Gorbachev. 100 million deaths, 80 years of international tension, including 40 years during which the idea of peace was two super-powers with a gun to each other's head while having their fingers on the trigger. All because one 16 year old, diagnosed with the then-incurable tuberculosis, who had no more than few years left to live, decided that he wanted to change the world before he died. And change it he did. Destiny even gave him enough time to see the Great War before finally succumbing to his illness.
 
@@ -26,7 +26,7 @@ During this period, currently called *"The National Revival"*, various grass-roo
 
 Today, all of these so-called *National Revival* figures are unequivocally considered freedom fighters. In the Balkans, they are some of the most revered national heroes. I don't think that even the modern Turkish state would dare call them terrorists. They have firmly secured their place on the good side of history. On the other side, Gavrilo Princip used to be considered a national hero during the Tito era in Yugoslavia - then once again he became a terrorist after Croatia and Bosnia seceded.
 
-How comes this? Why are some rebels considered freedom fighters and others - terrorists. Is it only because they won? Or is there some absolute line, not depending on the times, the society, the culture and the people that one is not supposed to cross in order to become a freedom fighter instead of being branded a terrorist?
+How is this possible? Why are some rebels considered freedom fighters and others - terrorists? Is it only because they won? Or is there some absolute line, not depending on the times, the society, the culture and the people that one is not supposed to cross in order to become a freedom fighter instead of being branded a terrorist?
 
 I think there is.
 
@@ -44,7 +44,7 @@ Ridiculing you and ostracizing you is not enough - even if it could justify a sy
 
 Here are you a few examples from recent history that show how well it works:
 * No one but the 3rd Reich ever considered the WW2 resistance fighters as terrorists - and no one ever doubted that their lives would have been endangered if they were to freely express their views and try to convert people
-* When Catalunya decided to secede from Spain, the Spanish state definitely overstepped the line by prosecuting the perpetrators - as using the Judicial system to repress dissent is always the first step to total oppresion
+* When Catalunya decided to secede from Spain, the Spanish state definitely overstepped the line by prosecuting the perpetrators - as using the Judicial system to repress dissent is always the first step to total oppression
 * In France, there is not a single radical islamist preacher that has been jailed for the only crime of preaching radical Islam - so preaching radical Islam does not directly endanger your life in any way
   * It should be noted that during the 1960s a pro-Algerian demonstration was dispersed by the French police with extreme brutality resulting in many deaths - so during this era this statement might not have been true
 * I have always been a staunch opponent of anti-hate laws as they definitely do not contribute to changing the way people think and they tend to constitute the only valid argument in an otherwise remarkably unsympathetic political camp - these tend to transform either misguided or naturally repulsive people into political dissidents
