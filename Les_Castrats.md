@@ -24,8 +24,8 @@ Bien évidemment, on n'a plus de chanteurs d'opéra pareils. Le tout dernier cas
 
 ----
 
-Il faut savoir, qu'en théorie, la castration dans le but de faire un chanteur d'opéra, était totalement illégale même pendant le Moyen Age et la Renaissance. Mais l'attrait d'une vie de star et de luxe pour les classes populaires faisaient qu'il y avait un nombre suffisant de parents qui faisaient le pas. Je dis bien de parents, parce que le premier problème avec cette pratique barbare est précisément le fait que l'enfant est beaucoup trop jeune pour consentir.
+Il faut savoir, qu'en théorie, la castration dans le but de faire un chanteur d'opéra, était totalement illégale même pendant le Moyen Age et la Renaissance. Mais l'attrait d'une vie de luxe pour les classes populaires faisaient qu'il y avait un nombre suffisant de parents qui franchissait le pas. Je dis bien de parents, parce que le premier problème avec cette pratique barbare est précisément le fait que l'enfant est beaucoup trop jeune pour y consentir.
 
 On estime que jusqu'au 4000 garçons étaient castrés par pendant l'âge d'or de l'opéra. Une partie ne survivaient pas à l'opération du tout et uniquement une petite poignée devenaient des grands stars.
 
-Finalement, la pratique n'a été complètement éradiquée que vers la fin du 19ème siècle.
+Finalement, la pratique n'a été complètement éradiquée que vers la fin du 19ème siècle. C'est en 1903 que le pape Pie X a décrété que désormais, dans les chœurs de chapelle, interdites aux femmes, en cas de besoin de soprano ou de contralto, ils fallait utiliser des voix de jeunes garçons.
