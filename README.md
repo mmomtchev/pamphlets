@@ -13,3 +13,5 @@ These will serve 3 different goals:
 
 Essays:
 * [On Armed Struggle and Terrorism](https://github.com/mmomtchev/pamphlets/blob/master/On_Armed_Struggle_and_Terrorism.md) - As I currently maintain that the French Judiciary is a criminal judicial system - which is a statement usually associated with terrorism - as a very first step, I would like to express my views on terrorism
+
+* [On 2023][https://github.com/mmomtchev/pamphlets/blob/master/On_Fiducia_supplicans.md] - My thoughts on 2023
