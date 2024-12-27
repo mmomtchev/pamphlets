@@ -30,3 +30,9 @@ Google and Free's reaction to this situation - in which they were obviously drag
 *Then every freedom fighter's most important job should be to render the method he used to avoid capture, permanently open*
 
 As these days I meet with lots of political activists - of the traditional street type - I have come to notice how they dear their rights to *Freedom of Assembly* and *Freedom of Speech*. Well, in my case, this would be anonymous travel - something for which my days seem numbered. Because the day they install face recognition on the CCTV in the subway, I will be toasted.
+
+## The case for advertising
+
+One of the industries that has been completely transformed by automated data processing of personal data is advertising. A few years ago I bought a funny T-shirt with a joke about paragliding referring a famous ad in France (*the Aquaponey ad if you are in France*). I bought it clicking an ad on Facebook - someone had the good business idea to market his product exclusively to paragliding pilots. This was an expensive ad - but it must have worked very well - definitely enough for him to make a profit. This kind of business would have been impossible a few decades ago - marketing a product directly to everyone who was speaking French and was into paragliding.
+
+This is a legitimate use of personal data and it is one that should continue to be allowed. However getting the phone numbers, and the email and home addresses of every paragliding pilot in France who bought penis-enlargement pills during the last 6 months and whose wife made online search for family therapy is not. And yet, this is something that today is entirely possible. Not only this information is available to the highest bidder for selling products - it is also available to the criminal underworld to serve for extortions. And this is where it becomes a huge problem.
