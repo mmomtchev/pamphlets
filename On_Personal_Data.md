@@ -36,3 +36,27 @@ As these days I meet with lots of political activists - of the traditional stree
 One of the industries that has been completely transformed by automated data processing of personal data is advertising. A few years ago I bought a funny T-shirt with a joke about paragliding referring a famous ad in France (*the Aquaponey ad if you are in France*). I bought it clicking an ad on Facebook - someone had the good business idea to market his product exclusively to paragliding pilots. This was an expensive ad - but it must have worked very well - definitely enough for him to make a profit. This kind of business would have been impossible a few decades ago - marketing a product directly to everyone who was speaking French and was into paragliding.
 
 This is a legitimate use of personal data and it is one that should continue to be allowed. However getting the phone numbers, and the email and home addresses of every paragliding pilot in France who bought penis-enlargement pills during the last 6 months and whose wife made online search for family therapy is not. And yet, this is something that today is entirely possible. Not only this information is available to the highest bidder for selling products - it is also available to the criminal underworld to serve for extortions. And this is where it becomes a huge problem.
+
+## The case for additional regulation
+
+The EU lawmakers have tried to be tough on privacy protection. At the time of this writing, all they have achieved is to force every larger net site to start showing those pesky little popups about cookies. First of all, today cookies are a very small part of the problem. Then, those pesky popups haven't accomplished anything beyond annoying the end user to hell. It is only a matter of time before a browser extension to block them appears. Although there was certainly some goodwill, this law is totally useless.
+
+## Technical measures - and protecting a system from its owners
+
+Bank robbery is highly illegal - and prosecution is usually thorough and successful - and yet most banks still go to extreme lengths to ensure the security of the transport and the safekeeping of raw cash. Technical measures give an additional layer of protection - not only what you are doing is very illegal - but you are also not very likely to succeed in the first place.
+
+Technical measures for protecting personal data from the company handling ot are next to none at the moment. The company is supposed to be honest - after all, these are their customers.
+
+However for many of these companies - who handle routinely millions or even billions of users - the economical equation of helping an extortion against one of them might be on the profitable side.
+
+Protecting data from its very owners is very difficult. As long as the company possesses this data, it will be very difficult to stop even a lower level IT department employee to steal it. In the case of a higher profile case - as mine - even higher management might give in to the temptation to completely cover up a scandal - using highly illegal methods.
+
+Safekeeping personal information is a critical task that will only grow in importance as our society becomes increasingly digital.
+
+As we went from feudalism to modern politics, we found out that ensuring public security - what we call today law enforcement - is another critical task. If it is left to the local warlords, abuses will be common. Even if, in theory, the local warlord has interest in keeping his population safe - in order to encourage economical development.
+
+Safekeeping personal information should be treated the same way. It should belong in the hands of elected officials and its handling should be open and transparent.
+
+If I had a notification every time someone accessed my personal information, extortion would have been much more difficult. Yet, advertising will continue to function - as long as their demands remain reasonable.
+
+Implementing such measures is a gargantuan task - it took us centuries to come up with modern law enforcement. Abuses are still possible - and I have seen them - but at least it is not the Wild West that personal data handling is at the moment.
