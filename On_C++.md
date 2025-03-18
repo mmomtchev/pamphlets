@@ -14,7 +14,7 @@ It is also the most interoperable language - there are very few cases where the 
 
 The current debate seems to be mostly centered on its manual memory management - its most remarkable feature - when compared to its other high-level competitors in 2025.
 
-**The manual memory management in C++ is not its biggest drawback - the manual memory management is its most important feature.**
+**The manual memory management in C++ is both its biggest drawback and its most important feature. If you do not need it, you should not use it.**
 
 Even in 2025, it remains the prime choice for operating systems, database engines, dynamic language interpreters and 3D game engines. Even in 2025, C++ software tends to be leaner, more portable to different platforms, and faster than everything else.
 
