@@ -53,9 +53,10 @@ It was not until the invasion of the USSR and the new generation of tanks - the 
 Direct comparisons of tanks are always very difficult because as the war progressed, tanks on both sides were constantly upgraded. Still, there was a number of key differences that were very important and must be mentioned. First of all, the German tanks used mostly petrol engines which tended to be more agile, but were also more prone to catching fire, while the Soviet tanks used mostly diesel engines. This German decision also turned to be a very bad one, since Germany had a permanent oil-shortage problem because of the British naval blockade.
 
 Still, the German tanks had a number of significant advantages:
-* The German tanks were much more ergonomical and had a very advanced steering differential with a steering wheel and a single gearbox, while the T-34 used two gearboxes and steering the tank was very difficult as it required using different gear ratios on each track. In practice the tank had to stop to turn and required great skill to maneuver.
+* The German tanks were much more ergonomical, later models had a very advanced steering differential and used steering wheels, while the T-34 used two clutches controlled with two sticks which made steering the tank very difficult. It required great skill to maneuver.
 * Each German tank was equipped with a radio, while only command T-34 tanks had radios, individual combat tanks had to rely on signalling with flags during combat.
 * The German tanks had very good optics and precision mechanics giving them excellent accuracy and range. During combat, the German tanks usually fired first, from a greater distance and with greater accuracy.
+* The German tanks usually had large numbers of highly technological features absent from other tanks of the era such as gun stabilizers, smoke dischargers, grenade launchers with a periscope or anti-magnetic mine coatings.
 
 On the other side, the Russian tanks:
 * The Russian tanks had very good sloped glacis armor which often deflected hits from the smaller German guns, while shots from the powerful Russian main guns were absolutely devastating for the German tanks.
@@ -114,6 +115,10 @@ The Germans rushed to upgrade their tanks - their main guns, their armor and the
 
 However, in reality, the Russians were building on average 1200 T-34s per month in 1942 - reaching 1500 in some months. And the 3:1 kill ratio was absolutely unrealistic.
 
+By the end of the war, the Soviets would built a total of 85 000 tanks between the original T-34 and the upgraded T-34/85. More than half of these would be destroyed in combat.
+
+The Germans will build only 8500 Panzer IVs and this will be Germany's most produced tank.
+
 **The truth is that the Russians had simply the better tank design.**
 
 The T-34 was initially built in two major factories - one in Kharkiv (modern Ukraine), where it was designed, and another one in Stalingrad (modern Volgograd). The one in Kharkiv was transferred to the East - during the great moving of their essential industry East (a very fascinating, but separate subject), since Kharkiv was overrun by the Germans very early in the war. The Germans managed to destroy the one in Stalingrad during the battle for the city - it was a heroic event during which tanks went directly into combat from the production line. As the war progressed, there were many more factories that were built in major cities.
@@ -124,9 +129,11 @@ Serial production was key, but the Soviets were not fanatical about it. The Germ
 
 The Panzer III had 12 main variants - designated by letters from A to N and 5 more specialized derivatives. The Panzer IV had 10 main variants and about 15 specialized derivatives. The T-34 had 4 models: 1940, 1941, 1942 and 1943. It was a multirole vehicle that was also used for construction, towing, clearing mines and troop transport. The Germans had a specialized vehicle for each of these tasks.
 
-When the Germans finally started recognizing the superiority of the T-34, they designed a completely new tank, repeating their initial mistake. The Panzer V Panther, considered a revolutionary tank, the precursor of the modern main battle tank, was superior to the T-34 in everything. Its frontal armor resisted direct hits from the T-34. Its main gun easily destroyed the T-34. It had interleaved track wheels which gave it excellent cross-country performance.
+When the Germans finally started recognizing the superiority of the T-34, they designed a completely new tank, repeating their initial mistake. The Panzer V Panther, considered a revolutionary tank, the precursor of the modern main battle tank, was superior to the T-34 in everything. Its frontal armor resisted direct hits from the T-34. Its main gun easily destroyed the T-34. It had interleaved track wheels which gave it excellent cross-country performance and featured a very advanced hydraulic gun stabilization which allowed firing on the move with very little loss of accuracy.
 
-The Panther costed about 55 000 man-hours to build. The T-34 had started at about 8000 in 1941, but experience reduced this to less than 4000 in 1943. The Panther VI tank, the very famous Tiger, costed close to 300 000 man-hours. It had very little impact on the war.
+The Panther costed about 55 000 man-hours to build. The T-34 had started at about 8000 in 1941, but experience reduced this to less than 4000 in 1943.
+
+The legendary Panther VI tank, the famous Tiger, costed close to 300 000 man-hours. It had very little impact on the war.
 
 When they encountered the Panther for the first time, the Soviets decided that the most cost-effective counter was to upgrade the main gun - creating the T-34/85. The new tank was slightly more expensive but now the Panther was not invulnerable and if each Panther encountered 3 T-34/85s, it was sure to lose. And this is precisely what happened on the battlefield. They had very correctly deduced that this tank was going to be far too expensive to be made in great numbers.
 
