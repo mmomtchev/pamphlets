@@ -53,7 +53,7 @@ It was not until the invasion of the USSR and the new generation of tanks - the 
 Direct comparisons of tanks are always very difficult because as the war progressed, tanks on both sides were constantly upgraded. Still, there was a number of key differences that were very important and must be mentioned. First of all, the German tanks used mostly petrol engines which tended to be more agile, but were also more prone to catching fire, while the Soviet tanks used mostly diesel engines. This German decision also turned to be a very bad one, since Germany had a permanent oil-shortage problem because of the British naval blockade.
 
 Still, the German tanks had a number of significant advantages:
-* The German tanks were much more ergonomical, later models had a very advanced steering differential and used steering wheels, while the T-34 used two clutches controlled with two sticks which made steering the tank very difficult. It required great skill and sometimes strength to maneuver. On early T-34 models, equipped with a 4-speed gearbox, passing the 3rd and the 4rd speed required applying up to 50kg of force - sometimes requiring the help of another crew member.
+* The German tanks were much more ergonomical, later models had a very advanced steering differential and used steering wheels, while the T-34 used two clutches controlled with two sticks which made steering the tank very difficult.
 * Each German tank was equipped with a radio, while only command T-34 tanks had radios, individual combat tanks had to rely on signalling with flags during combat.
 * The German tanks had very good optics and precision mechanics giving them excellent accuracy and range. During combat, the German tanks usually fired first, from a greater distance and with greater accuracy.
 * The German tanks usually had large numbers of highly technological features absent from other tanks of the era such as gun stabilizers, smoke dischargers, grenade launchers with a periscope or anti-magnetic mine coatings.
@@ -83,15 +83,21 @@ Still, the Americans quickly understood the concept, and while the M4 Sherman wa
 
 The Red Army never addressed the exploding ammo problem - few tanks got hit from the back. It was cheaper to replace them.
 
+Another great example was the gearbox. On early models, equipped with the 4-speed gearbox, it required great strength to shift gears - passing the 3rd and the 4rd speed required applying up to 50kg of force - sometimes requiring the help of another crew member. However shifting between first and second gear - those which the tank would use in combat - was done with relative ease.
+
+There was also the steel used for the front armor - they spend vast amounts of time to perfect the process of hardening it. A study of T-34s shipped to the UK in 1942 found that the steel used was of superior quality to the one used in British tanks.
+
+**When designing a successful value-optimized product, you should put the money where it really matters. There are things that can be left out, there are others which cannot.**
+
 As the war progressed, the Soviets gradually gained more experience and their workers eventually learned to weld properly. During the same quality inspections in 1944, it was found out that the number of T-34 leaving the factory that were able to drive 300km without breaking down had surpassed 50%. At the same time, due to wartime shortages of materials and rushed production, the quality of the German tanks had fallen dramatically. In 1944, it was the Soviets who drove their tanks over large distances and the Germans who struggled to keep theirs running.
 
-The Germans were very slow to recognize their strategic mistake when it came to tanks. They encountered the T-34 for the first time on the day following the invasion. At first, they were surprised by its good armor. Then it came the main gun. And finally, to their greatest dismay, there were the numbers.
+The Germans were very slow to recognize their strategic mistake when it came to tanks. They encountered the T-34 for the first time on the day following the invasion. At first, they were surprised by its good armor. Then it came the main gun. And finally, to their greatest dismay, there was the number of tanks.
 
 Their only relief was its construction quality. The first runs of T-34 were so bad, that most of the tanks they destroyed or captured had spare transmission axles attached behind their turrets - since the breakdown ratio was over 50% after a few hours of pushing heavily the engine in combat.
 
 Then, gradually, the construction quality started to improve.
 
-*Improving construction quality is always a very difficult, slow and tedious process which require utmost dedication, patience and discipline. But it is definitely possible. Sacrificing build quality for time-to-market, and then trying to improve, is certainly a valid strategy.*
+**Improving construction quality is always a very difficult, slow and tedious process which require utmost dedication, patience and discipline. But it is definitely possible. Sacrificing build quality for time-to-market, and then trying to improve, is certainly a valid strategy.**
 
 ## Kill ratios
 
